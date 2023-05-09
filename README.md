@@ -687,4 +687,117 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 
 ## Bestiary
 
+**Root Goblin**  
+4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
+- Avoid combat unless they have the advantage (such as greater numbers).
+- Guard their stolen goods to the death.
+- Prize Spellbooks; willing to trade.
+
+**Hooded Men**  
+12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
+- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
+- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+
+**Cobblehounds**  
+12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
+- Immobile constructs typically used as guardians to great tombs or artifacts.
+- Unaffected by mundane persuasion techniques - but do love a good bone.
+
+**Wood Troll**   
+12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
+- As an action, can recover lost HP.
+- Critical damage: moss and twigs begin growing out of target's wounds.
+
+**Frost Elf**  
+14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
+- Beautiful, amoral, and long-lived.
+- Resistant to most forms of magic.
+
+**Boggart**  
+3 HP, 4 STR, 17 DEX, 13 WIL
+- A wild, hairy trickster that takes pleasure in being a minor nuisance.
+- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
+- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
+
+### Creating Monsters
+Use the following template to model any more sophisticated Monster or NPC:
+
+**Name**
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+- Engaging descriptor of appearance or demeanor
+- Quirk, tactic, or peculiarity making this NPC unique
+- Special effect or critical damage consequence
+
+**General Principles**  
+Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.  
+- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
+- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
+- Use critical damage to lean into the threat or strangeness of any aggressive NPC.
+- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+
+**Converting from OSR Games**  
+- Give 1 HP per HD for most creatures.
+- Most humanoids have at least 4HP.
+- **Morale** can also be used as a baseline.
+
+Some pointers:  
+- Is it good at avoiding a hit? Give it HP.
+- Does it soak up damage? Give it Armor.
+- Is it strong? Give it a high **STR**.
+- Is it nimble? Give it high **DEX**.
+- Is it charismatic? Give it high WIL.
+
+Damage die are roughly the same, though armed attacks do at least 1d6 damage.
+
+[back to index](#index)
+<p></p>
+
 ## Rules Summary
+
+**ACTIONS**  
+On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+
+**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
+
+**ABILITIES**  
+**STR:** Brawn, prowess & resistance.   
+**DEX:** Dodging, sneaking & reflexes.   
+**WIL:**  Persuasion, intimidation & magic.
+
+**SAVES**  
+- Roll a d20 equal to or under an ability.
+- 1 is always a success, 20 is always a failure.
+
+**HIT PROTECTION**  
+**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+
+**INVENTORY**  
+PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+
+Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+
+**DEPRIVATION**  
+**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+
+**HEALING**  
+A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+
+**COMBAT**  
+The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
+
+Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+
+No one can have more than 3 Armor.
+
+**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damaged ice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+
+If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced** , the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+
+**DAMAGE**  
+If an attack takes a PC's HP exactly to 0, the player rolls on the **Scars** table.
+
+Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
+
+Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+
+[back to index](#index)
