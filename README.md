@@ -368,7 +368,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Tools
 
-|||||
+| ||||
 |------|-----------|------|-----------|
 |1  |Bellows    |6  |Cook Pots  |
 |2  |Bucket     |7  |Crowbar    |
@@ -378,7 +378,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Trinkets
 
-|||||
+| ||||
 |------|-----------|------|-----------|
 |1  |Bottle     |6  |Horn       |
 |2  |Card Deck  |7  |Incense    |
@@ -399,25 +399,62 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Armor
 
-||     |
-|--------------------------------------------------------------|-----|
-|Shield (+1 Armor)   |10   |
-|Helmet (+1 Armor)    |10   |
-|Gambeson (+1 Armor)   |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)      |60   |
+| |     |
+|------------------------------------------------------------------|--------|
+|Shield (+1 Armor)                                                 |10      |
+|Helmet (+1 Armor)                                                 |10      |
+|Gambeson (+1 Armor)                                               |15      |
+|Brigandine (1 Armor, bulky)                                       |20      |
+|Chainmail (2 Armor, bulky)                                        |40      |
+|Plate (3 Armor, bulky)                                            |60      |
 
-#### Weapons
+| |     |
+|------------------------------------------------------------------|--------|
+|Armored Vest (+1 Armor)                                           |$1000   |
+|Amulet from the old country (+1 Stability)                        |$1000   |
+|Gas Mask (protects against airborne toxins)                       |$100    |
+|Mask (protects your identity)                                     |$20     |
+
+| |     |
+|------------------------------------------------------------------|--------|
+|**Plate Carrier** (+1 Armor)                                      |$1000   |
+|**Flak Jacket** (+2 Armor, bulky)                                 |$3000   |
+|**Bomb Suit** (+3 Armor, bulky, 4 slots)                          |$10000  |
+|**Helmet** (+1 Armor)                                             |$500    |
+
+#### Melee Weapons
+
+| |     |
+|------------------------------------------------------------------|--------|
+|Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)                 |5       |
+|Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)                 |10      |
+|Halberd, War Hammer, Long  Sword , etc. (d10 damage, bulky)       |20      |
+|Sling (d4  damage)                                                |5       |
+|Bow  (d6  damage, bulky)                                          |20      |
+|Crossbow (d8  damage, bulky)                                      |30      |
+
+#### Ranged Weapons
+
+| |     |
+|------------------------------------------------------------------|--------|
+|**Taser** (DEX save or momentarily stunned)                       |$50     |
+|**Pistol** (d6 damage)                                            |$200    |
+|**Sawed off Shotgun** (d6 blast, bulky)                           |$500    |
+|**Rifle** (d8 damage, bulky)                                      |$750    |
+|**Shotgun** (d8 damage, bulky)                                    |$750    |
+|**Assault rifle** (d8 or d6 blast damage, bulky)                  |$1250   |
+|**Combat Shotgun** (d6 damage blast with d8 area, bulky)          |$1250   |
+|**Sniper** (d8 damage or d12 damage when hidden, bulky)           |$1750   |
+
+#### Explosives
 
 | |     |
 |--------------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
-|Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
-|Halberd, War Hammer, Long  Sword , etc. (d10 damage, bulky)   |20   |
-|Sling (d4  damage)                                            |5    |
-|Bow  (d6  damage, bulky)                                       |20   |
-|Crossbow (d8  damage, bulky)                                  |30   |
+|**Molotov Cocktail** (sets area alight, causing d6 continued damage until put out)           |$50    |
+|**Flashbang** (blast, temporarily blinds those who fail a DEX save)             |$100   |
+|**Grenade** (d8 damage, blast)            |$100   |
+|**IED** (d6 damage, blast with d4 continued damage per round)    |$200   |
+
 
 #### Gear & Tools
 
@@ -458,7 +495,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Dowser
 
-||
+| |
 |-----------------------------------------|
 |Sickle (d6)                              |
 |Patchwork Doublet (+1  Armor)            |
@@ -469,7 +506,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Dwarf
 
-||
+| |
 |-----------------------------------------|
 |Prickly Root (d6)                        |
 |Pinecone Lattice (1 Armor)        |
