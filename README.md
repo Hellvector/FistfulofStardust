@@ -1,10 +1,12 @@
-# Stardust Shuffle (v.0.1)
+# A Fistful of Stardust (v.0.1)
  A Cairn hack. This document will be licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-**Stardust Shuffle** is an adventure game for one facilitator (the Warden) and at least one other player.
+**A Fistful of Stardust** is an adventure game for one facilitator (the Warden) and at least one other player.
 
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
 > Adjust the wording of this passage to better fit the game.
+
+Players act as a crew of outlaws (?) doing whatever they can to eek (carve, scratch?) out a living in a  galaxy that has left them behind while trying not to draw any unwanted attention.
 
 ## Index
 
@@ -19,7 +21,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 
 ## Overview
 
-**Stardust Shuffle** was written with the following design philosophies in mind:
+**A Fistful of Stardust** was written with the following design philosophies in mind:
 
 ### Neutrality  
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
