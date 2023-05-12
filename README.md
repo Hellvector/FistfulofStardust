@@ -4,9 +4,10 @@
 **A Fistful of Stardust** is an adventure game for one facilitator (the Warden) and at least one other player.
 
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+>[!caution] 
 > Adjust the wording of this passage to better fit the game.
-
-Players act as a crew of outlaws (?) doing whatever they can to eek (carve, scratch?) out a living in a  galaxy that has left them behind while trying not to draw any unwanted attention.
+>
+> Players act as a crew of outlaws (?) doing whatever they can to eek (carve, scratch?) out a living in a  galaxy that has left them behind while trying not to draw any unwanted attention.
 
 ## Index
 
@@ -135,6 +136,9 @@ Players trust one another to engage with the shared setting, character goals, an
 [back to index](#index)
 <p></p>
 
+> [!warning]
+> Incorporate a section similar to "Principles of the Drifted World" from **We Deal in Lead** to explain the implied setting in greater detail.
+
 ## Character Creation
 
 **Name, Background & Traits**  
@@ -143,6 +147,8 @@ First, choose or roll a **name** for your character from the [**Name & Backgroun
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
 Finally, roll for their **age** (2d20+10).
+> [!warning]
+> The age roll probably needs adjusted?
 
 #### Ability Scores  
 Player Characters (PCs) have just three attributes:  
@@ -150,13 +156,17 @@ Player Characters (PCs) have just three attributes:
 
 **Example:**   
 Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+> [!warning]
+> Considering changing the three stats to **Body**, **Mind** and **Skill**.
 
 ### Hit Protection  
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the **Scars** table.
+> [!warning] 
 > Seriously considering increasing the starting HP to 2d6.
 
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+> [!warning]
 > Possibily alter the spread of inventory locations similar to how **We Deal in Lead** did.
 
 Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
@@ -172,6 +182,7 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
+> [!warning]
 > Adjust the starting gear to better fit the theme.
 
 Roll on the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment.
@@ -179,6 +190,7 @@ Roll on the **Starting Gear** tables to determine your PC's armor, weapons, tool
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
 If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+> [!warning]
 > Alter the gear packages to reflect some standard tropes of the genre.
 
 <p></p>
@@ -195,6 +207,8 @@ If you would like something closer to traditional classes, refer to the list of 
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
+> [!warning]
+> Edit these names.
 
 #### Male Names
 
@@ -206,6 +220,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
+> [!warning]
+> Edit these names.
+
 #### Surnames
 
 |||||||||
@@ -216,6 +233,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
+> [!warning]
+> Edit these names.
+
 #### Background
 
 |||||||||
@@ -225,6 +245,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |3           |Butcher   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
 |4           |Burglar   |9          |Herbalist  |14        |Miner    |19    |Servant   |
 |5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+
+> [!warning]
+> Edit these backgrounds.
 
 <p></p>
 
@@ -340,6 +363,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
 | None  | Brigandine | Chainmail | Plate |
+> [!warning]
 > Change the armor offerings to better match the genre.
 
 #### Helmets & Shields
@@ -348,6 +372,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
 |       None        | Helmet | Shield | Helmet & Shield |
+> [!warning]
 > Determine what a shield would even mean or if a helmet is reasonable for more than a rare few characters.
 
 #### Weapons
@@ -356,6 +381,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 |          1-5          |       6-14       |          15-19           |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+> [!warning]
 > Change the weapon offerings to pesudo-modern/western options.
 
 #### Expeditionary Gear
@@ -367,6 +393,8 @@ If you would like something closer to traditional classes, refer to the list of 
 | 3                  | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
 | 4                  | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
 | 5                  | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+> [!warning]
+> Gear needs adjusted to modern options.
 
 #### Tools
 
@@ -377,6 +405,8 @@ If you would like something closer to traditional classes, refer to the list of 
 |3  |Caltrops   |8  |Drill (Manual)|
 |4  |Chalk      |9  |FishingRod |
 |5  |Chisel     |10 |Glue       |
+> [!warning]
+> Tools could use some work.
 
 #### Trinkets
 
@@ -387,6 +417,8 @@ If you would like something closer to traditional classes, refer to the list of 
 |3  |Dice Set   |8  |Instrument |
 |4  |Face Paint |9  |Lens       |
 |5  |Fake Jewels|10 |Marbles    |
+> [!warning]
+> Trinkets are decent, might need slight adjustment.
 
 #### Bonus Item (roll on table indicated)
 
@@ -394,6 +426,8 @@ If you would like something closer to traditional classes, refer to the list of 
 | :--------------: | :----------------: | :-------------: | :-------: |
 |       1-5        |        6-13        |      14-17      |   18-20   |
 | Tool or  Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+> [!warning]
+> 18-20 Spellbook entry needs removed entirely. Move the Armor or Weapon up to this slot and insert Specialty Gear related to the character's background.
 
 <p></p>
 
@@ -423,6 +457,8 @@ If you would like something closer to traditional classes, refer to the list of 
 |**Flak Jacket** (+2 Armor, bulky)                                 |$3000   |
 |**Bomb Suit** (+3 Armor, bulky, 4 slots)                          |$10000  |
 |**Helmet** (+1 Armor)                                             |$500    |
+> [!warning]
+> Working on the list of armor options.
 
 #### Melee Weapons
 
@@ -434,6 +470,8 @@ If you would like something closer to traditional classes, refer to the list of 
 |Sling (d4  damage)                                                |5       |
 |Bow  (d6  damage, bulky)                                          |20      |
 |Crossbow (d8  damage, bulky)                                      |30      |
+> [!warning]
+> Cut this list down to just melee weapons that are reasonable for the setting.
 
 #### Ranged Weapons
 
@@ -447,6 +485,8 @@ If you would like something closer to traditional classes, refer to the list of 
 |**Assault rifle** (d8 or d6 blast damage, bulky)                  |$1250   |
 |**Combat Shotgun** (d6 damage blast with d8 area, bulky)          |$1250   |
 |**Sniper** (d8 damage or d12 damage when hidden, bulky)           |$1750   |
+> [!warning]
+> Pricing might need adjusted, as well as giving the damage dice another once over.
 
 #### Explosives
 
@@ -456,7 +496,8 @@ If you would like something closer to traditional classes, refer to the list of 
 |**Flashbang** (blast, temporarily blinds those who fail a DEX save)             |$100   |
 |**Grenade** (d8 damage, blast)            |$100   |
 |**IED** (d6 damage, blast with d4 continued damage per round)    |$200   |
-
+> [!warning]
+> Remove IED, possibly replace it with a claymore mine, and plan to adjust the prices.
 
 #### Gear & Tools
 
@@ -490,12 +531,17 @@ If you would like something closer to traditional classes, refer to the list of 
 |Incense                                      |10              |Torch              |1         |
 |Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200       |
 |Lantern & Oil                                |10              |Wolfsbane          |10        |
+> [!warning]
+> This entire list needs some serious consideration.
 
 <p></p>
 
 ## Optional Gear Packages  
 
 #### Dowser
+> [!failure]
+> This entire list is only being left here as inspiration for the formatting and distribution.
+> A whole new set of setting specific gear selections and tropes/classes needs to be presented.
 
 | |
 |-----------------------------------------|
@@ -606,15 +652,19 @@ Each of the three **abilities** are used in different circumstances (see **saves
 **Dexterity (DEX):** Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
 **Willpower** (WIL): Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+> [!failure]
+> These will need adjusted when the final attribute names are decided.
 
 **Saves**  
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
 
 **Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+> [!failure]
+> Example text needs adjusted to fit the game.
 
 **Deprivation & Fatigue**  
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
-PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+PCs can also gain Fatigue through events in the fiction.
 
 **Healing**  
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services may be free, while more expedient or magical means of recovery may come at a cost.
@@ -623,6 +673,8 @@ Resting for a few moments and having a drink of water restores lost HP but leave
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
+> [!warning]
+> References to various types of armor need changed.
 
 **Reactions**  
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
@@ -644,6 +696,8 @@ The most common coin is the gold piece (gp), which is equal to 10 silver pieces 
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
 Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+> [!failure]
+> Change all references and context for treasure and wealth.
 
 ## Combat
 
@@ -659,11 +713,15 @@ Each round, the PCs declare what they are doing before dice are rolled. If a cha
 The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
 
 **Example:** _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
+> [!warning]
+> Change example text.
 
 **Attacking & Damage**  
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
 
 **Example:** _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's leather armor, leaving Bea with 2 HP remaining_.
+> [!warning]
+> Change example text.
 
 **Multiple Attackers**  
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
@@ -720,11 +778,15 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+> [!failure]
+> Rework the entire scars table.
 
 [back to index](#index)
 <p></p>
 
 ## Bestiary
+> [!failure]
+> This entire bestiary needs redone, and is only being kept here for future reference.
 
 **Root Goblin**  
 4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
@@ -802,6 +864,8 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 **STR:** Brawn, prowess & resistance.   
 **DEX:** Dodging, sneaking & reflexes.   
 **WIL:**  Persuasion, intimidation & magic.
+> [!failure]
+> Update this as attributes get decided on.
 
 **SAVES**  
 - Roll a d20 equal to or under an ability.
@@ -838,5 +902,7 @@ If an attack takes a PC's HP exactly to 0, the player rolls on the **Scars** tab
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+> [!failure]
+> Adjust these as necessary.
 
 [back to index](#index)
