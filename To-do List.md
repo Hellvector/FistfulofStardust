@@ -1,8 +1,9 @@
 # To-do List
 
 - [ ] Introduction
-	- [ ] Inspiration and Credits
+	- [ ] Acknowledgement
 	- [ ] General Description
+	- [ ] Inspiration
 	- [ ] Index
 - [ ] Overview
 	- [ ] Design Philosophies
