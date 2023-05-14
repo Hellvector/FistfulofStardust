@@ -22,7 +22,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 > Rev. 2:
 > Players act as a crew of outcasts in vast and unforgiving galaxy that has left them behind, taking whatever jobs they can find to survive while trying not to draw any unwanted attention.
 
-**Inspiration:** _Firefly_, _Cowboy Bebop_
+**Inspiration:** _Firefly_, _Cowboy Bebop_, _Outlaw Star_
 
 ## Index
 

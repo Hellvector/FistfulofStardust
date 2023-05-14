@@ -12,7 +12,7 @@
 	- [ ] Principals of the Galaxy?
 - [ ] Character Creation
 	- [ ] Name, Background & Traits
-	- [ ] Age
+	- [ ] Age (Adjust Range)
 	- [ ] Ability Scores
 	- [ ] Hit Protection
 	- [ ] Inventory Explanation
