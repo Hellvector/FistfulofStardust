@@ -1,13 +1,28 @@
 # A Fistful of Stardust (v.0.1)
  A Cairn hack. This document will be licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+>[!warning] Adjust this wording as needed.
+
+## Acknowledgements
+- Yochai Gal, for the [Cairn SRD](https://cairnrpg.com/cairn-srd/), base rules, tables, and framework necessary to make this hack.
+- Chris McDowell, for Into the Odd and [BASTIONLAND.com](BASTIONLAND.com)
+- [Ben Milton](https://itch.io/profile/questingbeast) - for Knave and the Maze Rats magic system.
+>[!warning]
+>Insert references to We Deal in Lead and Liminal Horror.
+>Potentially Mausritter?
 
 **A Fistful of Stardust** is an adventure game for one facilitator (the Warden) and at least one other player.
 
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
 >[!caution] 
 > Adjust the wording of this passage to better fit the game.
->
+> 
+>Rev. 1:
 > Players act as a crew of outlaws (?) doing whatever they can to eek (carve, scratch?) out a living in a  galaxy that has left them behind while trying not to draw any unwanted attention.
+> 
+> Rev. 2:
+> Players act as a crew of outcasts in vast and unforgiving galaxy that has left them behind, taking whatever jobs they can find to survive while trying not to draw any unwanted attention.
+
+**Inspiration:** _Firefly_, _Cowboy Bebop_
 
 ## Index
 
@@ -199,7 +214,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Female Names
 
-|||||||||
+| ||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
 |2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
@@ -212,7 +227,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Male Names
 
-|||||||||
+| ||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
 |2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
@@ -225,7 +240,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Surnames
 
-|||||||||
+| ||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
 |2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
@@ -238,7 +253,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Background
 
-|||||||||
+| ||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
 |1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
 |2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
@@ -432,6 +447,8 @@ If you would like something closer to traditional classes, refer to the list of 
 <p></p>
 
 ## Equipment List (Prices in Gold Pieces)
+>[!warning]
+>Adjust the title of this section to match the chosen form of currency for the game.
 
 #### Armor
 
@@ -538,106 +555,98 @@ If you would like something closer to traditional classes, refer to the list of 
 
 ## Optional Gear Packages  
 
-#### Dowser
 > [!failure]
 > This entire list is only being left here as inspiration for the formatting and distribution.
 > A whole new set of setting specific gear selections and tropes/classes needs to be presented.
 
-| |
-|-----------------------------------------|
-|Sickle (d6)                              |
-|Patchwork Doublet (+1  Armor)            |
-|Dowsing Rod                              |
-|Eyestone (Sense if placed in fresh water)|
-|Worn Map                                 |
-|Spyglass                                 |
+#### Dowser
+| | |
+|---|-----------------------------------------|
+||Sickle (d6)                              |
+||Patchwork Doublet (+1  Armor)            |
+||Dowsing Rod                              |
+||Eyestone (Sense if placed in fresh water)|
+||Worn Map                                 |
+||Spyglass                                 |
 
 #### Dwarf
-
-| |
-|-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)        |
-|Trowel |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
+| | |
+|---|-----------------------------------------|
+||Prickly Root (d6)                        |
+||Pinecone Lattice (1 Armor)        |
+||Trowel |
+||Jar of Forest Ants                       |
+||Poisonous mushroom                       |
+||Hand Drill                               |
 
 #### Elf
-
-||
-|-----------------------------------------|
-|Elegant Sword (d8)      |
-|Recurve Bow (d8) |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (Charm or Detect               |
-|Golden Flute                             |
-|Air Bladder                              |
+| | |
+|---|-----------------------------------------|
+||Elegant Sword (d8)      |
+||Recurve Bow (d8) |
+||Gilt Clothing (1 Armor)                  |
+||Spellbook (Charm or Detect               |
+||Golden Flute                             |
+||Air Bladder                              |
 
 #### Fighter
-
-||
-|-----------------------------------------|
-|Glaive (d10, bulky)      |
-| Scimitar (d8)        |
-|Shortsword (d6)                        |
-|Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+| | |
+|---|-----------------------------------------|
+||Glaive (d10, bulky)      |
+||Scimitar (d8)        |
+||Shortsword (d6)                        |
+||Tobacco Pouch & Pipe                   |
+||Dice Set                               |
 
 #### Friar
-
-||
-|-----------------------------------------|
-|Scepter (d6)                    |
-|Deceptive Robes (+1 Armor)      |
-|Censer & Holy  Water           |
-|Jug of Honey Wine               |
-|Folk Songbook                   |
-|Cart (+4  slots, bulky)         |
+| | |
+|---|-----------------------------------------|
+||Scepter (d6)                    |
+||Deceptive Robes (+1 Armor)      |
+||Censer & Holy  Water           |
+||Jug of Honey Wine               |
+||Folk Songbook                   |
+||Cart (+4  slots, bulky)         |
 
 #### Knight
-
-|                      |
-| -------------------------- |
-| Longsword (d8, bulky)      |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1  Armor)         |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
+| | |
+|---|-----------------------------------------|
+||Longsword (d8, bulky)      |
+||Chainmail (2 Armor, bulky) |
+||Helmet (+1  Armor)         |
+||Heraldic Cape              |
+||Manacles                   |
+||Fine Rope                  |
 
 #### Magic User
-
-||
-|-----------------------------------------|
-|Fizzled Staff (d8, bulky) |
-|Dagger (d6)  |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see Relics)         |
+| | |
+|---|-----------------------------------------|
+||Fizzled Staff (d8, bulky) |
+||Dagger (d6)  |
+||Spellbook (random spell)                 |
+||Spellbook (random spell)                 |
+||Ragged Clothing (hidden pockets)         |
+||Leycap (x2, see Relics)         |
 
 #### Thief
-
-||
-|-----------------------------------------|
-|Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Armor)                  |
-|Lockpicks                                |
-|Caltrops                                 |
-|Grappling Hook                           |
-|Metal File                               |
+| | |
+|---|-----------------------------------------|
+||Two daggers (d6+d6)                      |
+||Hooded Jerkin (1 Armor)                  |
+||Lockpicks                                |
+||Caltrops                                 |
+||Grappling Hook                           |
+||Metal File                               |
 
 #### Ranger
-
-||
-|-----------------------------------------|
-|Longbow (d8, bulky)             |
-|Hatchet (d6)                    |
-|Padded Leathers (1  Armor)      |
-|Large Trap                      |
-|Bloodhound &#124; 2 HP, 12  DEX, bite (d6) |
-|Thundering Horn                 |
+| | |
+|---|-----------------------------------------|
+||Longbow (d8, bulky)             |
+||Hatchet (d6)                    |
+||Padded Leathers (1  Armor)      |
+||Large Trap                      |
+||Bloodhound &#124; 2 HP, 12  DEX, bite (d6) |
+||Thundering Horn                 |
 
 [back to index](#index)
 <p></p>
